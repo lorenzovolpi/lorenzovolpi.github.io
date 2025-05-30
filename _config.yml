@@ -22,10 +22,10 @@ repository               : "lorenzovolpi/lorenzovolpi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Lorenzo Volpi"
   pronouns         : # example: "she/her"  
-  bio              : # "..."
+  bio              : "PhD student"
   location         : "Pisa, IT"
   employer         : "University of Pisa - ISTI, CNR"
   uri              : # URL
